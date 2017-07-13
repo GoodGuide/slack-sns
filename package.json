@@ -18,7 +18,7 @@
     "ramda": "^0.17.1"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.11.x"
   },
   "devDependencies": {
     "chai": "^3.2.0",
